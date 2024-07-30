@@ -1,0 +1,21 @@
+.banner-bg{
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 683px;
+}
+
+.banner-area{
+    padding: 5% 0 0 5%;
+}
+.banner-area h1{
+    background-color: #fff;
+    Width: 359px;
+    letter-spacing: 15px;
+    padding: 20px;
+}
+.banner-area p{
+    background-color: #fff;
+    Width: 495px;
+    padding: 20px;
+}
